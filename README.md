@@ -52,7 +52,8 @@ Reveals where the highest drop-offs occur and what stages require optimization.
 Calculated by campaign and by weekday to understand revenue behavior.
 Composite Quality Score
 
-### A custom metric combining CTR, conversion rate, CPA, and ROMI to rank campaigns holistically.
+### Quality Score 
+A custom metric combining CTR, conversion rate, CPA, and ROMI to rank campaigns holistically.
 
 ### Spend–Revenue Elasticity
 Shows how sensitive revenue is to changes in marketing spend.
@@ -73,9 +74,9 @@ The dashboard supports continuous monitoring and executive reporting.
 
 ## 5. Interpretation & Recommendations
 
-Reallocate Budget toward campaigns with high ROMI and strong quality scores.
-Improve Mid-Funnel Experience, especially the click → lead transition.
-Reduce Spend on campaigns showing negative elasticity or high CPA.
-Prioritize High-AOV Days for targeted promotions.
-Refresh Creatives when CTR trends signal fatigue.
-These insights can help marketers optimize budgets, improve customer experience, and maximize total ROI.
+### Reallocate Budget toward campaigns with high ROMI and strong quality scores.
+### Improve Mid-Funnel Experience, especially the click → lead transition.
+### Reduce Spend on campaigns showing negative elasticity or high CPA.
+### Prioritize High-AOV Days for targeted promotions.
+### Refresh Creatives when CTR trends signal fatigue.
+### These insights can help marketers optimize budgets, improve customer experience, and maximize total ROI.
