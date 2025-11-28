@@ -61,7 +61,44 @@ Essential for budget forecasting and identifying diminishing returns.
 
 ## 4. Power BI Dashboard
 
-The SQL outputs were imported into Power BI to build an interactive dashboard featuring:
+After completing the SQL-based data processing and metric analysis, the outputs were exported into Power BI to build an executive-style dashboard. The objective of the dashboard is to convert raw performance metrics into easy-to-read business intelligence, enabling faster decision-making and high-level performance tracking across campaigns, categories, and time.
+
+### Questions This Dashboard Answers
+
+Each visual directly addresses a business objective:
+
+### 1) Which category delivers the highest return?
+Tree Map – Overall ROMI by Category & CTR
+Identifies the most profitable campaign categories.
+Helps compare social, influencer, search, and media investment efficiency.
+
+### 2) Which campaigns should be scaled or shut down?
+Bar Chart – ROMI by Campaign Name
+Ranks campaigns from profit-generating to loss-making.
+Red-highlighted campaigns indicate negative ROI and budget leakage.
+
+### 3) Which channel is cost-effective vs expensive?
+Dual-Axis Chart – ROMI vs CPA by Category
+Reveals profitability against acquisition cost.
+Flags channels that are expensive but unprofitable vs cheap and effective.
+
+### 4) When do customers spend more?
+Line Chart – AOV by Day
+Identifies peak spending days.
+Helps optimize ad scheduling and promotion days.
+
+### 5) Is marketing quality improving or declining?
+KPI Card – Quality Score
+Tracks combined performance across CTR, conversions, and ROMI.
+Acts as an early warning system for campaign degradation.
+
+### 6) What is the scale of exposure and efficiency?
+KPI Cards – Impressions, ROMI, AOV
+High-level executive snapshot of reach and revenue productivity.
+
+### 7) Which campaigns deserve priority investment?
+Slicers – Campaign & Category
+Enable deep filtering for targeted analysis and comparisons.
 
 ### ROMI vs CPA comparisons
 ### Funnel visualization
@@ -71,6 +108,8 @@ The SQL outputs were imported into Power BI to build an interactive dashboard fe
 ### Elasticity insights
 
 The dashboard supports continuous monitoring and executive reporting.
+
+### Screenshot of the Dashboard 
 
 ## 5. Interpretation & Recommendations
 
