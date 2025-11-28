@@ -110,7 +110,7 @@ Enable deep filtering for targeted analysis and comparisons.
 The dashboard supports continuous monitoring and executive reporting.
 
 ### Screenshot of the Dashboard 
-(https://github.com/Astitvasinghbhandari/Marketing.campaign.analysis/blob/main/Snapshot.of.the.Dashboard.png)
+![Dashboard Preview](https://github.com/Astitvasinghbhandari/Marketing.campaign.analysis/blob/main/Snapshot.of.the.Dashboard.png)
 ## 5. Interpretation & Recommendations
 
 ### Reallocate Budget toward campaigns with high ROMI and strong quality scores.
